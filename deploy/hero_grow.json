@@ -1,0 +1,812 @@
+{
+    "1": {
+        "id": 1,
+        "type": 1,
+        "lvlSection": 1,
+        "lvlGrow": 10500
+    },
+    "2": {
+        "id": 2,
+        "type": 1,
+        "lvlSection": 11,
+        "lvlGrow": 10400
+    },
+    "3": {
+        "id": 3,
+        "type": 1,
+        "lvlSection": 21,
+        "lvlGrow": 10300
+    },
+    "4": {
+        "id": 4,
+        "type": 1,
+        "lvlSection": 31,
+        "lvlGrow": 10250
+    },
+    "5": {
+        "id": 5,
+        "type": 1,
+        "lvlSection": 41,
+        "lvlGrow": 10200
+    },
+    "6": {
+        "id": 6,
+        "type": 1,
+        "lvlSection": 51,
+        "lvlGrow": 10190
+    },
+    "7": {
+        "id": 7,
+        "type": 1,
+        "lvlSection": 61,
+        "lvlGrow": 10190
+    },
+    "8": {
+        "id": 8,
+        "type": 1,
+        "lvlSection": 71,
+        "lvlGrow": 10190
+    },
+    "9": {
+        "id": 9,
+        "type": 1,
+        "lvlSection": 81,
+        "lvlGrow": 10190
+    },
+    "10": {
+        "id": 10,
+        "type": 1,
+        "lvlSection": 91,
+        "lvlGrow": 10190
+    },
+    "11": {
+        "id": 11,
+        "type": 1,
+        "lvlSection": 101,
+        "lvlGrow": 10190
+    },
+    "12": {
+        "id": 12,
+        "type": 1,
+        "lvlSection": 111,
+        "lvlGrow": 10190
+    },
+    "13": {
+        "id": 13,
+        "type": 1,
+        "lvlSection": 121,
+        "lvlGrow": 10190
+    },
+    "14": {
+        "id": 14,
+        "type": 1,
+        "lvlSection": 131,
+        "lvlGrow": 10190
+    },
+    "15": {
+        "id": 15,
+        "type": 1,
+        "lvlSection": 141,
+        "lvlGrow": 10190
+    },
+    "16": {
+        "id": 16,
+        "type": 1,
+        "lvlSection": 151,
+        "lvlGrow": 10190
+    },
+    "17": {
+        "id": 17,
+        "type": 1,
+        "lvlSection": 161,
+        "lvlGrow": 10190
+    },
+    "18": {
+        "id": 18,
+        "type": 1,
+        "lvlSection": 171,
+        "lvlGrow": 10190
+    },
+    "19": {
+        "id": 19,
+        "type": 1,
+        "lvlSection": 181,
+        "lvlGrow": 10190
+    },
+    "20": {
+        "id": 20,
+        "type": 1,
+        "lvlSection": 191,
+        "lvlGrow": 10190
+    },
+    "21": {
+        "id": 21,
+        "type": 1,
+        "lvlSection": 201,
+        "lvlGrow": 10190
+    },
+    "22": {
+        "id": 22,
+        "type": 1,
+        "lvlSection": 211,
+        "lvlGrow": 10190
+    },
+    "23": {
+        "id": 23,
+        "type": 1,
+        "lvlSection": 221,
+        "lvlGrow": 10190
+    },
+    "24": {
+        "id": 24,
+        "type": 1,
+        "lvlSection": 231,
+        "lvlGrow": 10190
+    },
+    "25": {
+        "id": 25,
+        "type": 1,
+        "lvlSection": 241,
+        "lvlGrow": 10190
+    },
+    "26": {
+        "id": 26,
+        "type": 1,
+        "lvlSection": 251,
+        "lvlGrow": 10190
+    },
+    "27": {
+        "id": 27,
+        "type": 1,
+        "lvlSection": 261,
+        "lvlGrow": 10190
+    },
+    "28": {
+        "id": 28,
+        "type": 1,
+        "lvlSection": 271,
+        "lvlGrow": 10190
+    },
+    "29": {
+        "id": 29,
+        "type": 1,
+        "lvlSection": 281,
+        "lvlGrow": 10190
+    },
+    "30": {
+        "id": 30,
+        "type": 1,
+        "lvlSection": 291,
+        "lvlGrow": 10190
+    },
+    "31": {
+        "id": 31,
+        "type": 1,
+        "lvlSection": 301,
+        "lvlGrow": 10190
+    },
+    "32": {
+        "id": 32,
+        "type": 1,
+        "lvlSection": 311,
+        "lvlGrow": 10190
+    },
+    "33": {
+        "id": 33,
+        "type": 1,
+        "lvlSection": 321,
+        "lvlGrow": 10190
+    },
+    "34": {
+        "id": 34,
+        "type": 1,
+        "lvlSection": 331,
+        "lvlGrow": 10190
+    },
+    "35": {
+        "id": 35,
+        "type": 1,
+        "lvlSection": 341,
+        "lvlGrow": 10190
+    },
+    "36": {
+        "id": 36,
+        "type": 1,
+        "lvlSection": 351,
+        "lvlGrow": 10190
+    },
+    "37": {
+        "id": 37,
+        "type": 1,
+        "lvlSection": 361,
+        "lvlGrow": 10190
+    },
+    "38": {
+        "id": 38,
+        "type": 1,
+        "lvlSection": 371,
+        "lvlGrow": 10190
+    },
+    "39": {
+        "id": 39,
+        "type": 1,
+        "lvlSection": 381,
+        "lvlGrow": 10190
+    },
+    "40": {
+        "id": 40,
+        "type": 1,
+        "lvlSection": 391,
+        "lvlGrow": 10190
+    },
+    "41": {
+        "id": 41,
+        "type": 1,
+        "lvlSection": 401,
+        "lvlGrow": 10190
+    },
+    "42": {
+        "id": 42,
+        "type": 1,
+        "lvlSection": 411,
+        "lvlGrow": 10190
+    },
+    "43": {
+        "id": 43,
+        "type": 1,
+        "lvlSection": 421,
+        "lvlGrow": 10190
+    },
+    "44": {
+        "id": 44,
+        "type": 1,
+        "lvlSection": 431,
+        "lvlGrow": 10190
+    },
+    "45": {
+        "id": 45,
+        "type": 1,
+        "lvlSection": 441,
+        "lvlGrow": 10190
+    },
+    "46": {
+        "id": 46,
+        "type": 2,
+        "lvlSection": 1,
+        "lvlGrow": 10500
+    },
+    "47": {
+        "id": 47,
+        "type": 2,
+        "lvlSection": 11,
+        "lvlGrow": 10400
+    },
+    "48": {
+        "id": 48,
+        "type": 2,
+        "lvlSection": 21,
+        "lvlGrow": 10300
+    },
+    "49": {
+        "id": 49,
+        "type": 2,
+        "lvlSection": 31,
+        "lvlGrow": 10250
+    },
+    "50": {
+        "id": 50,
+        "type": 2,
+        "lvlSection": 41,
+        "lvlGrow": 10200
+    },
+    "51": {
+        "id": 51,
+        "type": 2,
+        "lvlSection": 51,
+        "lvlGrow": 10185
+    },
+    "52": {
+        "id": 52,
+        "type": 2,
+        "lvlSection": 61,
+        "lvlGrow": 10185
+    },
+    "53": {
+        "id": 53,
+        "type": 2,
+        "lvlSection": 71,
+        "lvlGrow": 10185
+    },
+    "54": {
+        "id": 54,
+        "type": 2,
+        "lvlSection": 81,
+        "lvlGrow": 10185
+    },
+    "55": {
+        "id": 55,
+        "type": 2,
+        "lvlSection": 91,
+        "lvlGrow": 10185
+    },
+    "56": {
+        "id": 56,
+        "type": 2,
+        "lvlSection": 101,
+        "lvlGrow": 10185
+    },
+    "57": {
+        "id": 57,
+        "type": 2,
+        "lvlSection": 111,
+        "lvlGrow": 10185
+    },
+    "58": {
+        "id": 58,
+        "type": 2,
+        "lvlSection": 121,
+        "lvlGrow": 10185
+    },
+    "59": {
+        "id": 59,
+        "type": 2,
+        "lvlSection": 131,
+        "lvlGrow": 10185
+    },
+    "60": {
+        "id": 60,
+        "type": 2,
+        "lvlSection": 141,
+        "lvlGrow": 10185
+    },
+    "61": {
+        "id": 61,
+        "type": 2,
+        "lvlSection": 151,
+        "lvlGrow": 10185
+    },
+    "62": {
+        "id": 62,
+        "type": 2,
+        "lvlSection": 161,
+        "lvlGrow": 10185
+    },
+    "63": {
+        "id": 63,
+        "type": 2,
+        "lvlSection": 171,
+        "lvlGrow": 10185
+    },
+    "64": {
+        "id": 64,
+        "type": 2,
+        "lvlSection": 181,
+        "lvlGrow": 10185
+    },
+    "65": {
+        "id": 65,
+        "type": 2,
+        "lvlSection": 191,
+        "lvlGrow": 10185
+    },
+    "66": {
+        "id": 66,
+        "type": 2,
+        "lvlSection": 201,
+        "lvlGrow": 10185
+    },
+    "67": {
+        "id": 67,
+        "type": 2,
+        "lvlSection": 211,
+        "lvlGrow": 10185
+    },
+    "68": {
+        "id": 68,
+        "type": 2,
+        "lvlSection": 221,
+        "lvlGrow": 10185
+    },
+    "69": {
+        "id": 69,
+        "type": 2,
+        "lvlSection": 231,
+        "lvlGrow": 10185
+    },
+    "70": {
+        "id": 70,
+        "type": 2,
+        "lvlSection": 241,
+        "lvlGrow": 10185
+    },
+    "71": {
+        "id": 71,
+        "type": 2,
+        "lvlSection": 251,
+        "lvlGrow": 10185
+    },
+    "72": {
+        "id": 72,
+        "type": 2,
+        "lvlSection": 261,
+        "lvlGrow": 10185
+    },
+    "73": {
+        "id": 73,
+        "type": 2,
+        "lvlSection": 271,
+        "lvlGrow": 10185
+    },
+    "74": {
+        "id": 74,
+        "type": 2,
+        "lvlSection": 281,
+        "lvlGrow": 10185
+    },
+    "75": {
+        "id": 75,
+        "type": 2,
+        "lvlSection": 291,
+        "lvlGrow": 10185
+    },
+    "76": {
+        "id": 76,
+        "type": 2,
+        "lvlSection": 301,
+        "lvlGrow": 10185
+    },
+    "77": {
+        "id": 77,
+        "type": 2,
+        "lvlSection": 311,
+        "lvlGrow": 10185
+    },
+    "78": {
+        "id": 78,
+        "type": 2,
+        "lvlSection": 321,
+        "lvlGrow": 10185
+    },
+    "79": {
+        "id": 79,
+        "type": 2,
+        "lvlSection": 331,
+        "lvlGrow": 10185
+    },
+    "80": {
+        "id": 80,
+        "type": 2,
+        "lvlSection": 341,
+        "lvlGrow": 10185
+    },
+    "81": {
+        "id": 81,
+        "type": 2,
+        "lvlSection": 351,
+        "lvlGrow": 10185
+    },
+    "82": {
+        "id": 82,
+        "type": 2,
+        "lvlSection": 361,
+        "lvlGrow": 10185
+    },
+    "83": {
+        "id": 83,
+        "type": 2,
+        "lvlSection": 371,
+        "lvlGrow": 10185
+    },
+    "84": {
+        "id": 84,
+        "type": 2,
+        "lvlSection": 381,
+        "lvlGrow": 10185
+    },
+    "85": {
+        "id": 85,
+        "type": 2,
+        "lvlSection": 391,
+        "lvlGrow": 10185
+    },
+    "86": {
+        "id": 86,
+        "type": 2,
+        "lvlSection": 401,
+        "lvlGrow": 10185
+    },
+    "87": {
+        "id": 87,
+        "type": 2,
+        "lvlSection": 411,
+        "lvlGrow": 10185
+    },
+    "88": {
+        "id": 88,
+        "type": 2,
+        "lvlSection": 421,
+        "lvlGrow": 10185
+    },
+    "89": {
+        "id": 89,
+        "type": 2,
+        "lvlSection": 431,
+        "lvlGrow": 10185
+    },
+    "90": {
+        "id": 90,
+        "type": 2,
+        "lvlSection": 441,
+        "lvlGrow": 10185
+    },
+    "91": {
+        "id": 91,
+        "type": 3,
+        "lvlSection": 1,
+        "lvlGrow": 10500
+    },
+    "92": {
+        "id": 92,
+        "type": 3,
+        "lvlSection": 11,
+        "lvlGrow": 10400
+    },
+    "93": {
+        "id": 93,
+        "type": 3,
+        "lvlSection": 21,
+        "lvlGrow": 10300
+    },
+    "94": {
+        "id": 94,
+        "type": 3,
+        "lvlSection": 31,
+        "lvlGrow": 10250
+    },
+    "95": {
+        "id": 95,
+        "type": 3,
+        "lvlSection": 41,
+        "lvlGrow": 10200
+    },
+    "96": {
+        "id": 96,
+        "type": 3,
+        "lvlSection": 51,
+        "lvlGrow": 10180
+    },
+    "97": {
+        "id": 97,
+        "type": 3,
+        "lvlSection": 61,
+        "lvlGrow": 10180
+    },
+    "98": {
+        "id": 98,
+        "type": 3,
+        "lvlSection": 71,
+        "lvlGrow": 10180
+    },
+    "99": {
+        "id": 99,
+        "type": 3,
+        "lvlSection": 81,
+        "lvlGrow": 10180
+    },
+    "100": {
+        "id": 100,
+        "type": 3,
+        "lvlSection": 91,
+        "lvlGrow": 10180
+    },
+    "101": {
+        "id": 101,
+        "type": 3,
+        "lvlSection": 101,
+        "lvlGrow": 10180
+    },
+    "102": {
+        "id": 102,
+        "type": 3,
+        "lvlSection": 111,
+        "lvlGrow": 10180
+    },
+    "103": {
+        "id": 103,
+        "type": 3,
+        "lvlSection": 121,
+        "lvlGrow": 10180
+    },
+    "104": {
+        "id": 104,
+        "type": 3,
+        "lvlSection": 131,
+        "lvlGrow": 10180
+    },
+    "105": {
+        "id": 105,
+        "type": 3,
+        "lvlSection": 141,
+        "lvlGrow": 10180
+    },
+    "106": {
+        "id": 106,
+        "type": 3,
+        "lvlSection": 151,
+        "lvlGrow": 10180
+    },
+    "107": {
+        "id": 107,
+        "type": 3,
+        "lvlSection": 161,
+        "lvlGrow": 10180
+    },
+    "108": {
+        "id": 108,
+        "type": 3,
+        "lvlSection": 171,
+        "lvlGrow": 10180
+    },
+    "109": {
+        "id": 109,
+        "type": 3,
+        "lvlSection": 181,
+        "lvlGrow": 10180
+    },
+    "110": {
+        "id": 110,
+        "type": 3,
+        "lvlSection": 191,
+        "lvlGrow": 10180
+    },
+    "111": {
+        "id": 111,
+        "type": 3,
+        "lvlSection": 201,
+        "lvlGrow": 10180
+    },
+    "112": {
+        "id": 112,
+        "type": 3,
+        "lvlSection": 211,
+        "lvlGrow": 10180
+    },
+    "113": {
+        "id": 113,
+        "type": 3,
+        "lvlSection": 221,
+        "lvlGrow": 10180
+    },
+    "114": {
+        "id": 114,
+        "type": 3,
+        "lvlSection": 231,
+        "lvlGrow": 10180
+    },
+    "115": {
+        "id": 115,
+        "type": 3,
+        "lvlSection": 241,
+        "lvlGrow": 10180
+    },
+    "116": {
+        "id": 116,
+        "type": 3,
+        "lvlSection": 251,
+        "lvlGrow": 10180
+    },
+    "117": {
+        "id": 117,
+        "type": 3,
+        "lvlSection": 261,
+        "lvlGrow": 10180
+    },
+    "118": {
+        "id": 118,
+        "type": 3,
+        "lvlSection": 271,
+        "lvlGrow": 10180
+    },
+    "119": {
+        "id": 119,
+        "type": 3,
+        "lvlSection": 281,
+        "lvlGrow": 10180
+    },
+    "120": {
+        "id": 120,
+        "type": 3,
+        "lvlSection": 291,
+        "lvlGrow": 10180
+    },
+    "121": {
+        "id": 121,
+        "type": 3,
+        "lvlSection": 301,
+        "lvlGrow": 10180
+    },
+    "122": {
+        "id": 122,
+        "type": 3,
+        "lvlSection": 311,
+        "lvlGrow": 10180
+    },
+    "123": {
+        "id": 123,
+        "type": 3,
+        "lvlSection": 321,
+        "lvlGrow": 10180
+    },
+    "124": {
+        "id": 124,
+        "type": 3,
+        "lvlSection": 331,
+        "lvlGrow": 10180
+    },
+    "125": {
+        "id": 125,
+        "type": 3,
+        "lvlSection": 341,
+        "lvlGrow": 10180
+    },
+    "126": {
+        "id": 126,
+        "type": 3,
+        "lvlSection": 351,
+        "lvlGrow": 10180
+    },
+    "127": {
+        "id": 127,
+        "type": 3,
+        "lvlSection": 361,
+        "lvlGrow": 10180
+    },
+    "128": {
+        "id": 128,
+        "type": 3,
+        "lvlSection": 371,
+        "lvlGrow": 10180
+    },
+    "129": {
+        "id": 129,
+        "type": 3,
+        "lvlSection": 381,
+        "lvlGrow": 10180
+    },
+    "130": {
+        "id": 130,
+        "type": 3,
+        "lvlSection": 391,
+        "lvlGrow": 10180
+    },
+    "131": {
+        "id": 131,
+        "type": 3,
+        "lvlSection": 401,
+        "lvlGrow": 10180
+    },
+    "132": {
+        "id": 132,
+        "type": 3,
+        "lvlSection": 411,
+        "lvlGrow": 10180
+    },
+    "133": {
+        "id": 133,
+        "type": 3,
+        "lvlSection": 421,
+        "lvlGrow": 10180
+    },
+    "134": {
+        "id": 134,
+        "type": 3,
+        "lvlSection": 431,
+        "lvlGrow": 10180
+    },
+    "135": {
+        "id": 135,
+        "type": 3,
+        "lvlSection": 441,
+        "lvlGrow": 10180
+    }
+}

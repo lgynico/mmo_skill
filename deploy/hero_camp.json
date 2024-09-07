@@ -1,0 +1,67 @@
+{
+    "1": {
+        "id": 1,
+        "restrained": 3,
+        "refrained": 2,
+        "isSpecial": false,
+        "rollbackTrans": [
+            10001,
+            150
+        ],
+        "rankType": 110
+    },
+    "2": {
+        "id": 2,
+        "restrained": 1,
+        "refrained": 3,
+        "isSpecial": false,
+        "rollbackTrans": [
+            10001,
+            150
+        ],
+        "rankType": 112
+    },
+    "3": {
+        "id": 3,
+        "restrained": 2,
+        "refrained": 1,
+        "isSpecial": false,
+        "rollbackTrans": [
+            10001,
+            150
+        ],
+        "rankType": 111
+    },
+    "4": {
+        "id": 4,
+        "restrained": 5,
+        "refrained": 5,
+        "isSpecial": true,
+        "rollbackTrans": [],
+        "rankType": 0
+    },
+    "5": {
+        "id": 5,
+        "restrained": 4,
+        "refrained": 4,
+        "isSpecial": true,
+        "rollbackTrans": [],
+        "rankType": 0
+    },
+    "6": {
+        "id": 6,
+        "restrained": 0,
+        "refrained": 0,
+        "isSpecial": false,
+        "rollbackTrans": [],
+        "rankType": 0
+    },
+    "0": {
+        "id": 0,
+        "restrained": 0,
+        "refrained": 0,
+        "isSpecial": true,
+        "rollbackTrans": [],
+        "rankType": 0
+    }
+}

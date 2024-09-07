@@ -1,0 +1,34 @@
+{
+    "1": {
+        "id": 1,
+        "name": "伤害光环",
+        "radius": 2.0,
+        "cycle": 1000,
+        "buff": 2050,
+        "targetType": 1
+    },
+    "2": {
+        "id": 2,
+        "name": "伤害光环",
+        "radius": 1.5,
+        "cycle": 1000,
+        "buff": 2050,
+        "targetType": 1
+    },
+    "3": {
+        "id": 3,
+        "name": "伤害光环",
+        "radius": 10.0,
+        "cycle": 1000,
+        "buff": 2100,
+        "targetType": 1
+    },
+    "4": {
+        "id": 4,
+        "name": "伤害光环",
+        "radius": 10.0,
+        "cycle": 1000,
+        "buff": 2120,
+        "targetType": 1
+    }
+}

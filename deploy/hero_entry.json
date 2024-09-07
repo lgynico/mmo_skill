@@ -1,0 +1,999 @@
+{
+    "11101": {
+        "id": 11101,
+        "camp": 1,
+        "abilityType": 1,
+        "rank": 1,
+        "maxRank": 1,
+        "attackSkill": 111010,
+        "skill1": [
+            111011,
+            1
+        ],
+        "skill2": [],
+        "skill3": [],
+        "skill4": [],
+        "inbornPassiveList": [],
+        "attrs": {
+            "1": 500,
+            "3": 1000,
+            "4": 500,
+            "5": 25,
+            "6": 5,
+            "7": 250,
+            "9": 100,
+            "10": 100,
+            "11": 25
+        },
+        "growType": 2,
+        "decomposable": true,
+        "decompRewards": [
+            [
+                1,
+                1000
+            ],
+            [
+                10001,
+                600
+            ],
+            [
+                10002,
+                2
+            ]
+        ]
+    },
+    "11102": {
+        "id": 11102,
+        "camp": 1,
+        "abilityType": 1,
+        "rank": 1,
+        "maxRank": 1,
+        "attackSkill": 111020,
+        "skill1": [
+            111021,
+            1
+        ],
+        "skill2": [],
+        "skill3": [],
+        "skill4": [],
+        "inbornPassiveList": [],
+        "attrs": {
+            "1": 600,
+            "3": 1000,
+            "4": 500,
+            "5": 15,
+            "6": 6,
+            "7": 250,
+            "9": 100,
+            "10": 100,
+            "11": 25
+        },
+        "growType": 2,
+        "decomposable": true,
+        "decompRewards": [
+            [
+                1,
+                1000
+            ],
+            [
+                10001,
+                600
+            ],
+            [
+                10002,
+                2
+            ]
+        ]
+    },
+    "11202": {
+        "id": 11202,
+        "camp": 1,
+        "abilityType": 1,
+        "rank": 10,
+        "maxRank": 31,
+        "attackSkill": 112020,
+        "skill1": [
+            112021,
+            1,
+            101,
+            221
+        ],
+        "skill2": [
+            112022,
+            11,
+            81,
+            181
+        ],
+        "skill3": [
+            112023,
+            61,
+            121
+        ],
+        "skill4": [],
+        "inbornPassiveList": [],
+        "attrs": {
+            "1": 805,
+            "3": 1000,
+            "4": 500,
+            "5": 31.15,
+            "6": 7,
+            "7": 250,
+            "9": 140,
+            "10": 100,
+            "11": 25
+        },
+        "growType": 1,
+        "decomposable": false,
+        "decompRewards": []
+    },
+    "11205": {
+        "id": 11205,
+        "camp": 1,
+        "abilityType": 1,
+        "rank": 10,
+        "maxRank": 31,
+        "attackSkill": 112050,
+        "skill1": [
+            112051,
+            1,
+            101,
+            221
+        ],
+        "skill2": [
+            112052,
+            11,
+            81,
+            181
+        ],
+        "skill3": [
+            112053,
+            61,
+            121,
+            201
+        ],
+        "skill4": [],
+        "inbornPassiveList": [],
+        "attrs": {
+            "1": 1036,
+            "3": 1000,
+            "4": 500,
+            "5": 21.7,
+            "6": 6.3,
+            "7": 250,
+            "9": 150,
+            "10": 100,
+            "11": 25
+        },
+        "growType": 1,
+        "decomposable": false,
+        "decompRewards": []
+    },
+    "11301": {
+        "id": 11301,
+        "camp": 1,
+        "abilityType": 3,
+        "rank": 1,
+        "maxRank": 31,
+        "attackSkill": 113010,
+        "skill1": [
+            113011,
+            1,
+            101,
+            221
+        ],
+        "skill2": [
+            113012,
+            11,
+            81,
+            181
+        ],
+        "skill3": [
+            113013,
+            61,
+            121,
+            201
+        ],
+        "skill4": [
+            113034,
+            1,
+            41,
+            141
+        ],
+        "inbornPassiveList": [],
+        "attrs": {
+            "1": 700,
+            "3": 1000,
+            "4": 500,
+            "5": 36,
+            "6": 8,
+            "7": 250,
+            "9": 150,
+            "10": 50,
+            "11": 50
+        },
+        "growType": 2,
+        "decomposable": false,
+        "decompRewards": []
+    },
+    "11303": {
+        "id": 11303,
+        "camp": 1,
+        "abilityType": 3,
+        "rank": 20,
+        "maxRank": 65,
+        "attackSkill": 113030,
+        "skill1": [
+            113031,
+            1,
+            101,
+            221
+        ],
+        "skill2": [
+            113032,
+            11,
+            81,
+            181
+        ],
+        "skill3": [
+            113033,
+            61,
+            121,
+            201
+        ],
+        "skill4": [
+            113034,
+            1,
+            41,
+            141
+        ],
+        "inbornPassiveList": [],
+        "attrs": {
+            "1": 532,
+            "3": 1000,
+            "4": 500,
+            "5": 46.9,
+            "6": 5.95,
+            "7": 250,
+            "9": 700,
+            "10": 100,
+            "11": 25
+        },
+        "growType": 1,
+        "decomposable": false,
+        "decompRewards": []
+    },
+    "11305": {
+        "id": 11305,
+        "camp": 1,
+        "abilityType": 2,
+        "rank": 20,
+        "maxRank": 65,
+        "attackSkill": 113050,
+        "skill1": [
+            113051,
+            1,
+            101,
+            221
+        ],
+        "skill2": [
+            113052,
+            11,
+            81,
+            181
+        ],
+        "skill3": [
+            113054,
+            61,
+            121,
+            201
+        ],
+        "skill4": [
+            113053,
+            1,
+            41,
+            141
+        ],
+        "inbornPassiveList": [
+            110
+        ],
+        "attrs": {
+            "1": 406,
+            "3": 1000,
+            "4": 500,
+            "5": 52.5,
+            "6": 5.6,
+            "7": 250,
+            "9": 120,
+            "10": 100,
+            "11": 25
+        },
+        "growType": 2,
+        "decomposable": false,
+        "decompRewards": []
+    },
+    "12101": {
+        "id": 12101,
+        "camp": 2,
+        "abilityType": 2,
+        "rank": 1,
+        "maxRank": 1,
+        "attackSkill": 121010,
+        "skill1": [
+            121011,
+            1
+        ],
+        "skill2": [],
+        "skill3": [],
+        "skill4": [],
+        "inbornPassiveList": [],
+        "attrs": {
+            "1": 500,
+            "3": 1000,
+            "4": 500,
+            "5": 40,
+            "6": 4,
+            "7": 250,
+            "9": 600,
+            "10": 100,
+            "11": 25
+        },
+        "growType": 2,
+        "decomposable": true,
+        "decompRewards": [
+            [
+                1,
+                1000
+            ],
+            [
+                10001,
+                600
+            ],
+            [
+                10002,
+                2
+            ]
+        ]
+    },
+    "12102": {
+        "id": 12102,
+        "camp": 2,
+        "abilityType": 3,
+        "rank": 1,
+        "maxRank": 1,
+        "attackSkill": 121020,
+        "skill1": [
+            121021,
+            1
+        ],
+        "skill2": [],
+        "skill3": [],
+        "skill4": [],
+        "inbornPassiveList": [],
+        "attrs": {
+            "1": 500,
+            "3": 1000,
+            "4": 500,
+            "5": 35,
+            "6": 5,
+            "7": 250,
+            "9": 600,
+            "10": 100,
+            "11": 25
+        },
+        "growType": 2,
+        "decomposable": true,
+        "decompRewards": [
+            [
+                1,
+                1000
+            ],
+            [
+                10001,
+                600
+            ],
+            [
+                10002,
+                2
+            ]
+        ]
+    },
+    "12201": {
+        "id": 12201,
+        "camp": 2,
+        "abilityType": 2,
+        "rank": 10,
+        "maxRank": 31,
+        "attackSkill": 122010,
+        "skill1": [
+            122011,
+            1,
+            101,
+            221
+        ],
+        "skill2": [
+            122012,
+            11,
+            81,
+            181
+        ],
+        "skill3": [
+            122013,
+            61,
+            121,
+            201
+        ],
+        "skill4": [],
+        "inbornPassiveList": [],
+        "attrs": {
+            "1": 490,
+            "3": 1000,
+            "4": 500,
+            "5": 48.3,
+            "6": 6.16,
+            "7": 250,
+            "9": 670,
+            "10": 100,
+            "11": 25
+        },
+        "growType": 1,
+        "decomposable": false,
+        "decompRewards": []
+    },
+    "11201": {
+        "id": 11201,
+        "camp": 2,
+        "abilityType": 3,
+        "rank": 10,
+        "maxRank": 31,
+        "attackSkill": 112010,
+        "skill1": [
+            112011,
+            1,
+            101,
+            221
+        ],
+        "skill2": [
+            112012,
+            11,
+            81,
+            181
+        ],
+        "skill3": [
+            112013,
+            61,
+            121
+        ],
+        "skill4": [],
+        "inbornPassiveList": [],
+        "attrs": {
+            "1": 546,
+            "3": 1000,
+            "4": 500,
+            "5": 46.2,
+            "6": 5.95,
+            "7": 250,
+            "9": 650,
+            "10": 100,
+            "11": 25
+        },
+        "growType": 1,
+        "decomposable": false,
+        "decompRewards": []
+    },
+    "12202": {
+        "id": 12202,
+        "camp": 2,
+        "abilityType": 1,
+        "rank": 10,
+        "maxRank": 31,
+        "attackSkill": 122020,
+        "skill1": [
+            122021,
+            1,
+            101,
+            221
+        ],
+        "skill2": [
+            122022,
+            11,
+            81,
+            181
+        ],
+        "skill3": [
+            122023,
+            61,
+            121,
+            201
+        ],
+        "skill4": [],
+        "inbornPassiveList": [],
+        "attrs": {
+            "1": 945,
+            "3": 1000,
+            "4": 500,
+            "5": 24.5,
+            "6": 8.05,
+            "7": 250,
+            "9": 120,
+            "10": 100,
+            "11": 25
+        },
+        "growType": 1,
+        "decomposable": false,
+        "decompRewards": []
+    },
+    "12205": {
+        "id": 12205,
+        "camp": 2,
+        "abilityType": 1,
+        "rank": 10,
+        "maxRank": 31,
+        "attackSkill": 122050,
+        "skill1": [
+            122051,
+            1,
+            101,
+            221
+        ],
+        "skill2": [
+            122052,
+            11,
+            81,
+            181
+        ],
+        "skill3": [
+            122053,
+            61,
+            121,
+            201
+        ],
+        "skill4": [],
+        "inbornPassiveList": [],
+        "attrs": {
+            "1": 620,
+            "3": 1000,
+            "4": 500,
+            "5": 28,
+            "6": 6,
+            "7": 250,
+            "9": 150,
+            "10": 100,
+            "11": 25
+        },
+        "growType": 1,
+        "decomposable": false,
+        "decompRewards": []
+    },
+    "12301": {
+        "id": 12301,
+        "camp": 2,
+        "abilityType": 3,
+        "rank": 20,
+        "maxRank": 65,
+        "attackSkill": 123010,
+        "skill1": [
+            123011,
+            1,
+            101,
+            221
+        ],
+        "skill2": [
+            123012,
+            11,
+            81,
+            181
+        ],
+        "skill3": [
+            123013,
+            61,
+            121,
+            201
+        ],
+        "skill4": [
+            123014,
+            1,
+            41,
+            141
+        ],
+        "inbornPassiveList": [],
+        "attrs": {
+            "1": 616,
+            "3": 1000,
+            "4": 500,
+            "5": 42,
+            "6": 6.3,
+            "7": 250,
+            "9": 750,
+            "10": 100,
+            "11": 25
+        },
+        "growType": 1,
+        "decomposable": false,
+        "decompRewards": []
+    },
+    "13101": {
+        "id": 13101,
+        "camp": 3,
+        "abilityType": 1,
+        "rank": 1,
+        "maxRank": 1,
+        "attackSkill": 131010,
+        "skill1": [
+            131011,
+            1
+        ],
+        "skill2": [],
+        "skill3": [],
+        "skill4": [],
+        "inbornPassiveList": [],
+        "attrs": {
+            "1": 500,
+            "3": 1000,
+            "4": 500,
+            "5": 25,
+            "6": 5,
+            "7": 250,
+            "9": 100,
+            "10": 100,
+            "11": 25
+        },
+        "growType": 2,
+        "decomposable": true,
+        "decompRewards": [
+            [
+                1,
+                1000
+            ],
+            [
+                10001,
+                600
+            ],
+            [
+                10002,
+                2
+            ]
+        ]
+    },
+    "13102": {
+        "id": 13102,
+        "camp": 3,
+        "abilityType": 3,
+        "rank": 1,
+        "maxRank": 1,
+        "attackSkill": 131020,
+        "skill1": [
+            131021,
+            1
+        ],
+        "skill2": [],
+        "skill3": [],
+        "skill4": [],
+        "inbornPassiveList": [],
+        "attrs": {
+            "1": 400,
+            "3": 1000,
+            "4": 500,
+            "5": 35,
+            "6": 4,
+            "7": 250,
+            "9": 600,
+            "10": 100,
+            "11": 25
+        },
+        "growType": 2,
+        "decomposable": true,
+        "decompRewards": [
+            [
+                1,
+                1000
+            ],
+            [
+                10001,
+                600
+            ],
+            [
+                10002,
+                2
+            ]
+        ]
+    },
+    "13201": {
+        "id": 13201,
+        "camp": 3,
+        "abilityType": 1,
+        "rank": 10,
+        "maxRank": 31,
+        "attackSkill": 132010,
+        "skill1": [
+            132011,
+            1,
+            101,
+            221
+        ],
+        "skill2": [
+            132012,
+            11,
+            81,
+            181
+        ],
+        "skill3": [
+            122023,
+            61,
+            121,
+            201
+        ],
+        "skill4": [],
+        "inbornPassiveList": [],
+        "attrs": {
+            "1": 805,
+            "3": 1000,
+            "4": 500,
+            "5": 34.3,
+            "6": 5.95,
+            "7": 250,
+            "9": 130,
+            "10": 100,
+            "11": 25
+        },
+        "growType": 1,
+        "decomposable": false,
+        "decompRewards": []
+    },
+    "13202": {
+        "id": 13202,
+        "camp": 3,
+        "abilityType": 1,
+        "rank": 10,
+        "maxRank": 31,
+        "attackSkill": 132020,
+        "skill1": [
+            132021,
+            1,
+            101,
+            221
+        ],
+        "skill2": [
+            132022,
+            11,
+            81,
+            181
+        ],
+        "skill3": [
+            132023,
+            61,
+            121,
+            201
+        ],
+        "skill4": [],
+        "inbornPassiveList": [],
+        "attrs": {
+            "1": 980,
+            "3": 1000,
+            "4": 500,
+            "5": 24.5,
+            "6": 6.3,
+            "7": 250,
+            "9": 150,
+            "10": 100,
+            "11": 25
+        },
+        "growType": 1,
+        "decomposable": false,
+        "decompRewards": []
+    },
+    "13205": {
+        "id": 13205,
+        "camp": 3,
+        "abilityType": 2,
+        "rank": 10,
+        "maxRank": 31,
+        "attackSkill": 132050,
+        "skill1": [
+            132051,
+            1,
+            101,
+            221
+        ],
+        "skill2": [
+            132052,
+            11,
+            81,
+            181
+        ],
+        "skill3": [
+            132053,
+            61,
+            121,
+            201
+        ],
+        "skill4": [],
+        "inbornPassiveList": [],
+        "attrs": {
+            "1": 504,
+            "3": 1000,
+            "4": 500,
+            "5": 48.3,
+            "6": 5.95,
+            "7": 250,
+            "9": 650,
+            "10": 100,
+            "11": 25
+        },
+        "growType": 1,
+        "decomposable": false,
+        "decompRewards": []
+    },
+    "13304": {
+        "id": 13304,
+        "camp": 3,
+        "abilityType": 2,
+        "rank": 20,
+        "maxRank": 65,
+        "attackSkill": 133040,
+        "skill1": [
+            133041,
+            1,
+            101,
+            221
+        ],
+        "skill2": [
+            133042,
+            11,
+            81,
+            181
+        ],
+        "skill3": [
+            133043,
+            61,
+            121,
+            201
+        ],
+        "skill4": [
+            133044,
+            1,
+            41,
+            141
+        ],
+        "inbornPassiveList": [
+            121,
+            122
+        ],
+        "attrs": {
+            "1": 525,
+            "3": 1000,
+            "4": 500,
+            "5": 49,
+            "6": 5.25,
+            "7": 250,
+            "9": 680,
+            "10": 100,
+            "11": 25
+        },
+        "growType": 1,
+        "decomposable": false,
+        "decompRewards": []
+    },
+    "13301": {
+        "id": 13301,
+        "camp": 3,
+        "abilityType": 2,
+        "rank": 20,
+        "maxRank": 65,
+        "attackSkill": 133010,
+        "skill1": [
+            133011,
+            1,
+            101,
+            221
+        ],
+        "skill2": [
+            133012,
+            11,
+            81,
+            181
+        ],
+        "skill3": [
+            133014,
+            61,
+            121,
+            201
+        ],
+        "skill4": [
+            133013,
+            1,
+            41,
+            141
+        ],
+        "inbornPassiveList": [
+            110
+        ],
+        "attrs": {
+            "1": 595,
+            "3": 1000,
+            "4": 500,
+            "5": 47.25,
+            "6": 5.25,
+            "7": 250,
+            "9": 120,
+            "10": 100,
+            "11": 25
+        },
+        "growType": 1,
+        "decomposable": false,
+        "decompRewards": []
+    },
+    "13305": {
+        "id": 13305,
+        "camp": 3,
+        "abilityType": 1,
+        "rank": 20,
+        "maxRank": 65,
+        "attackSkill": 133050,
+        "skill1": [
+            133051,
+            1,
+            101,
+            221
+        ],
+        "skill2": [
+            133052,
+            11,
+            81,
+            181
+        ],
+        "skill3": [
+            133053,
+            61,
+            121,
+            201
+        ],
+        "skill4": [
+            133054,
+            1,
+            41,
+            141
+        ],
+        "inbornPassiveList": [],
+        "attrs": {
+            "1": 1050,
+            "3": 1000,
+            "4": 500,
+            "5": 28,
+            "6": 6.3,
+            "7": 250,
+            "9": 170,
+            "10": 100,
+            "11": 25
+        },
+        "growType": 1,
+        "decomposable": false,
+        "decompRewards": []
+    },
+    "99999": {
+        "id": 99999,
+        "camp": 1,
+        "abilityType": 1,
+        "rank": 1,
+        "maxRank": 1,
+        "attackSkill": 211010,
+        "skill1": [],
+        "skill2": [],
+        "skill3": [],
+        "skill4": [],
+        "inbornPassiveList": [],
+        "attrs": {
+            "1": 5000,
+            "3": 1000,
+            "4": 500,
+            "5": 20,
+            "6": 1,
+            "7": 250,
+            "10": 100,
+            "11": 25,
+            "9": 300
+        },
+        "growType": 1,
+        "decomposable": false,
+        "decompRewards": []
+    }
+}

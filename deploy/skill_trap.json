@@ -1,0 +1,355 @@
+{
+    "11201321": {
+        "id": 11201321,
+        "name": "烟石引护",
+        "shape": [
+            1,
+            200
+        ],
+        "targetType": 4,
+        "delay": 0,
+        "duration": 0,
+        "interval": 0,
+        "times": 0,
+        "buffs": [],
+        "moveTrack": 0,
+        "moveParams": [],
+        "dieRemove": false
+    },
+    "1110111": {
+        "id": 1110111,
+        "name": "怒砸",
+        "shape": [
+            2,
+            10,
+            3
+        ],
+        "targetType": 1,
+        "delay": 0,
+        "duration": 0,
+        "interval": 0,
+        "times": 0,
+        "buffs": [
+            2250
+        ],
+        "moveTrack": 0,
+        "moveParams": [],
+        "dieRemove": false
+    },
+    "1110121": {
+        "id": 1110121,
+        "name": "怒砸",
+        "shape": [
+            1,
+            250
+        ],
+        "targetType": 1,
+        "delay": 0,
+        "duration": 0,
+        "interval": 0,
+        "times": 1,
+        "buffs": [
+            2250
+        ],
+        "moveTrack": 0,
+        "moveParams": [],
+        "dieRemove": false
+    },
+    "11202111": {
+        "id": 11202111,
+        "name": "半月铲崩",
+        "shape": [
+            2,
+            2,
+            1,
+            1
+        ],
+        "targetType": 1,
+        "delay": 0,
+        "duration": 0,
+        "interval": 0,
+        "times": 1,
+        "buffs": [
+            2200
+        ],
+        "moveTrack": 0,
+        "moveParams": [],
+        "dieRemove": false
+    },
+    "11202112": {
+        "id": 11202112,
+        "name": "半月铲崩",
+        "shape": [
+            2,
+            2,
+            1,
+            1
+        ],
+        "targetType": 1,
+        "delay": 0,
+        "duration": 0,
+        "interval": 0,
+        "times": 1,
+        "buffs": [
+            2260
+        ],
+        "moveTrack": 0,
+        "moveParams": [],
+        "dieRemove": false
+    },
+    "11202113": {
+        "id": 11202113,
+        "name": "半月铲崩",
+        "shape": [
+            2,
+            2,
+            1,
+            1
+        ],
+        "targetType": 1,
+        "delay": 0,
+        "duration": 0,
+        "interval": 0,
+        "times": 1,
+        "buffs": [
+            2320
+        ],
+        "moveTrack": 0,
+        "moveParams": [],
+        "dieRemove": false
+    },
+    "11202121": {
+        "id": 11202121,
+        "name": "半月铲挑",
+        "shape": [
+            2,
+            2,
+            1,
+            1
+        ],
+        "targetType": 1,
+        "delay": 0,
+        "duration": 0,
+        "interval": 0,
+        "times": 1,
+        "buffs": [
+            2150,
+            1
+        ],
+        "moveTrack": 0,
+        "moveParams": [],
+        "dieRemove": false
+    },
+    "11202122": {
+        "id": 11202122,
+        "name": "半月铲挑",
+        "shape": [
+            2,
+            2,
+            1,
+            1
+        ],
+        "targetType": 1,
+        "delay": 0,
+        "duration": 0,
+        "interval": 0,
+        "times": 1,
+        "buffs": [
+            2180,
+            1
+        ],
+        "moveTrack": 0,
+        "moveParams": [],
+        "dieRemove": false
+    },
+    "11202123": {
+        "id": 11202123,
+        "name": "半月铲挑",
+        "shape": [
+            2,
+            2,
+            1,
+            1
+        ],
+        "targetType": 1,
+        "delay": 0,
+        "duration": 0,
+        "interval": 0,
+        "times": 1,
+        "buffs": [
+            2200,
+            1
+        ],
+        "moveTrack": 0,
+        "moveParams": [],
+        "dieRemove": false
+    },
+    "11202124": {
+        "id": 11202124,
+        "name": "半月铲挑",
+        "shape": [
+            2,
+            2,
+            1,
+            1
+        ],
+        "targetType": 1,
+        "delay": 0,
+        "duration": 0,
+        "interval": 0,
+        "times": 1,
+        "buffs": [
+            2240,
+            1
+        ],
+        "moveTrack": 0,
+        "moveParams": [],
+        "dieRemove": false
+    },
+    "11205111": {
+        "id": 11205111,
+        "name": "分山破劲",
+        "shape": [
+            1,
+            300
+        ],
+        "targetType": 1,
+        "delay": 0,
+        "duration": 0,
+        "interval": 0,
+        "times": 1,
+        "buffs": [
+            2300
+        ],
+        "moveTrack": 0,
+        "moveParams": [],
+        "dieRemove": false
+    },
+    "11205112": {
+        "id": 11205112,
+        "name": "分山破劲",
+        "shape": [
+            1,
+            300
+        ],
+        "targetType": 1,
+        "delay": 0,
+        "duration": 0,
+        "interval": 0,
+        "times": 1,
+        "buffs": [
+            2340
+        ],
+        "moveTrack": 0,
+        "moveParams": [],
+        "dieRemove": false
+    },
+    "11205113": {
+        "id": 11205113,
+        "name": "分山破劲",
+        "shape": [
+            1,
+            300
+        ],
+        "targetType": 1,
+        "delay": 0,
+        "duration": 0,
+        "interval": 0,
+        "times": 1,
+        "buffs": [
+            2400,
+            106020
+        ],
+        "moveTrack": 0,
+        "moveParams": [],
+        "dieRemove": false
+    },
+    "1130321": {
+        "id": 1130321,
+        "name": "炽焰洪流Lv1",
+        "shape": [
+            2,
+            5,
+            2,
+            1
+        ],
+        "targetType": 1,
+        "delay": 0,
+        "duration": 0,
+        "interval": 0,
+        "times": 1,
+        "buffs": [
+            2150,
+            505
+        ],
+        "moveTrack": 0,
+        "moveParams": [],
+        "dieRemove": false
+    },
+    "1130322": {
+        "id": 1130322,
+        "name": "炽焰洪流Lv2",
+        "shape": [
+            2,
+            5,
+            2,
+            1
+        ],
+        "targetType": 1,
+        "delay": 0,
+        "duration": 0,
+        "interval": 0,
+        "times": 1,
+        "buffs": [
+            2175,
+            505
+        ],
+        "moveTrack": 0,
+        "moveParams": [],
+        "dieRemove": false
+    },
+    "1130323": {
+        "id": 1130323,
+        "name": "炽焰洪流Lv3",
+        "shape": [
+            2,
+            5,
+            2,
+            1
+        ],
+        "targetType": 1,
+        "delay": 0,
+        "duration": 0,
+        "interval": 0,
+        "times": 1,
+        "buffs": [
+            2200,
+            505
+        ],
+        "moveTrack": 0,
+        "moveParams": [],
+        "dieRemove": false
+    },
+    "1130324": {
+        "id": 1130324,
+        "name": "炽焰洪流Lv4",
+        "shape": [
+            2,
+            5,
+            2,
+            1
+        ],
+        "targetType": 1,
+        "delay": 0,
+        "duration": 0,
+        "interval": 0,
+        "times": 1,
+        "buffs": [
+            2200,
+            505
+        ],
+        "moveTrack": 0,
+        "moveParams": [],
+        "dieRemove": false
+    }
+}

@@ -1,0 +1,78 @@
+package common
+
+/* 技能效果类型 */
+const (
+	SK_EFF_TYP_CREATE_PROJECTILE = iota + 1
+	SK_EFF_TYP_CREATE_TRAP
+	SK_EFF_TYP_CREATE_UNIT
+	SK_EFF_TYP_ADD_BUFF
+	SK_EFF_TYP_CHANGE_POS
+	SK_EFF_TYP_CHANGE_AREA
+)
+
+/* 陷阱触发条件 */
+const (
+	TRAP_CONDITION_IMME   = 0
+	TRAP_CONDITION_DETECT = 1
+)
+
+/* 数值类型 */
+const (
+	VALUE_TYPE_FIX          = 0
+	VALUE_TYPE_ATK_PERC     = 1
+	VALUE_TYPE_MAX_HP_PERC  = 3
+	VALUE_TYPE_CURR_HP_PERC = 4
+)
+
+/* 技能处理过程 */
+const (
+	SKILL_PROCESS_TYPE_DIRECT = iota
+	SKILL_PROCESS_TYPE_CREATE_PROJECTILE
+	SKILL_PROCESS_TYPE_CREATE_TRAP
+	SKILL_PROCESS_TYPE_CREATE_SERVANT
+)
+
+/* 飞行体处理过程 */
+const (
+	FLYER_PROCESS_TYPE_DIRECT = iota
+	FLYER_PROCESS_TYPE_CREATE_TRAP
+)
+
+/* 位置类型 */
+const (
+	POS_TYPE_SELF_POS  = 0
+	POS_TYPE_DIRECTION = 1
+	POS_TYPE_CIRCLE    = 2
+)
+
+/* buff条件 */
+const (
+	BUFF_COND_ANY      = iota // 无条件
+	BUFF_COND_HP_LEAST        // 最少HP
+	BUFF_COND_ALL             // 全体
+	BUFF_COND_RANDOM          // 随机
+)
+
+// 角色行为类型
+const (
+	COMMON_ATTACK = 1 //普攻
+	CAST_SKILL    = 2 //释放技能
+	KILL_FOE      = 3 //杀敌
+)
+
+/* 陷阱轨迹类型 */
+const (
+	TRAP_TRACK_UNMOVABLE = iota
+	TRAP_TRACK_FOLLOW_UNIT
+	TRAP_TRACK_FOLLOW_TARGET
+	TRAP_TRACK_MOVE_FORWARD
+)
+
+// proto cmd
+const (
+	CMD_OBJ_PUSH         = 1
+	CMD_ROUTE_PUSH       = 2
+	CMD_ENTER_MAP_PUSH   = 6
+	CMD_DROP_PUSH        = 9
+	CMD_DROP_REMOVE_PUSH = 10
+)

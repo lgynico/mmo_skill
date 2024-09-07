@@ -1,0 +1,1730 @@
+{
+    "1": {
+        "id": 1,
+        "name": "击飞",
+        "type": 4,
+        "params": [
+            7
+        ],
+        "isOuterVal": false,
+        "layer": 0,
+        "duration": 1000,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "fly",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2": {
+        "id": 2,
+        "name": "眩晕1s",
+        "type": 4,
+        "params": [
+            7
+        ],
+        "isOuterVal": false,
+        "layer": 0,
+        "duration": 1000,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "stun",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "21": {
+        "id": 21,
+        "name": "眩晕2s",
+        "type": 4,
+        "params": [
+            7
+        ],
+        "isOuterVal": false,
+        "layer": 0,
+        "duration": 2000,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "stun",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "22": {
+        "id": 22,
+        "name": "眩晕4s",
+        "type": 4,
+        "params": [
+            7
+        ],
+        "isOuterVal": false,
+        "layer": 0,
+        "duration": 4000,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "stun",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "23": {
+        "id": 23,
+        "name": "眩晕10s",
+        "type": 4,
+        "params": [
+            7
+        ],
+        "isOuterVal": false,
+        "layer": 0,
+        "duration": 10000,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "stun",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "30": {
+        "id": 30,
+        "name": "通用回血buff",
+        "type": 3,
+        "params": [
+            0,
+            100
+        ],
+        "isOuterVal": true,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2025": {
+        "id": 2025,
+        "name": "攻击力*25%伤害",
+        "type": 2,
+        "params": [
+            1,
+            2500
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2035": {
+        "id": 2035,
+        "name": "攻击力*35%伤害",
+        "type": 2,
+        "params": [
+            1,
+            3500
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2050": {
+        "id": 2050,
+        "name": "攻击力*50%伤害",
+        "type": 2,
+        "params": [
+            1,
+            5000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2075": {
+        "id": 2075,
+        "name": "攻击力*75%伤害",
+        "type": 2,
+        "params": [
+            1,
+            7500
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2100": {
+        "id": 2100,
+        "name": "攻击力*100%伤害",
+        "type": 2,
+        "params": [
+            1,
+            10000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2110": {
+        "id": 2110,
+        "name": "攻击力*110%伤害",
+        "type": 2,
+        "params": [
+            1,
+            11000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2120": {
+        "id": 2120,
+        "name": "攻击力*120%伤害",
+        "type": 2,
+        "params": [
+            1,
+            12000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2125": {
+        "id": 2125,
+        "name": "攻击力*125%伤害",
+        "type": 2,
+        "params": [
+            1,
+            12500
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2130": {
+        "id": 2130,
+        "name": "攻击力*130%伤害",
+        "type": 2,
+        "params": [
+            1,
+            13000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2150": {
+        "id": 2150,
+        "name": "攻击力*150%伤害",
+        "type": 2,
+        "params": [
+            1,
+            15000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2175": {
+        "id": 2175,
+        "name": "攻击力*175%伤害",
+        "type": 2,
+        "params": [
+            1,
+            17500
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2180": {
+        "id": 2180,
+        "name": "攻击力*180%伤害",
+        "type": 2,
+        "params": [
+            1,
+            18000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2200": {
+        "id": 2200,
+        "name": "攻击力*200%伤害",
+        "type": 2,
+        "params": [
+            1,
+            20000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2220": {
+        "id": 2220,
+        "name": "攻击力*220%伤害",
+        "type": 2,
+        "params": [
+            1,
+            22000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2240": {
+        "id": 2240,
+        "name": "攻击力*240%伤害",
+        "type": 2,
+        "params": [
+            1,
+            24000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2250": {
+        "id": 2250,
+        "name": "攻击力*250%伤害",
+        "type": 2,
+        "params": [
+            1,
+            25000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2260": {
+        "id": 2260,
+        "name": "攻击力*260%伤害",
+        "type": 2,
+        "params": [
+            1,
+            26000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2275": {
+        "id": 2275,
+        "name": "攻击力*275%伤害",
+        "type": 2,
+        "params": [
+            1,
+            27500
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2300": {
+        "id": 2300,
+        "name": "攻击力*300%伤害",
+        "type": 2,
+        "params": [
+            1,
+            30000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2320": {
+        "id": 2320,
+        "name": "攻击力*320%伤害",
+        "type": 2,
+        "params": [
+            1,
+            32000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2340": {
+        "id": 2340,
+        "name": "攻击力*340%伤害",
+        "type": 2,
+        "params": [
+            1,
+            34000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2360": {
+        "id": 2360,
+        "name": "攻击力*360%伤害",
+        "type": 2,
+        "params": [
+            1,
+            36000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2380": {
+        "id": 2380,
+        "name": "攻击力*380%伤害",
+        "type": 2,
+        "params": [
+            1,
+            38000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2400": {
+        "id": 2400,
+        "name": "攻击力*400%伤害",
+        "type": 2,
+        "params": [
+            1,
+            40000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2420": {
+        "id": 2420,
+        "name": "攻击力*420%伤害",
+        "type": 2,
+        "params": [
+            1,
+            42000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2440": {
+        "id": 2440,
+        "name": "攻击力*440%伤害",
+        "type": 2,
+        "params": [
+            1,
+            44000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2460": {
+        "id": 2460,
+        "name": "攻击力*460%伤害",
+        "type": 2,
+        "params": [
+            1,
+            46000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2480": {
+        "id": 2480,
+        "name": "攻击力*480%伤害",
+        "type": 2,
+        "params": [
+            1,
+            48000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "2500": {
+        "id": 2500,
+        "name": "攻击力*500%伤害",
+        "type": 2,
+        "params": [
+            1,
+            50000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmg",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "6320": {
+        "id": 6320,
+        "name": "320%护盾",
+        "type": 6,
+        "params": [
+            1,
+            32000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 4000,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "Shields",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "11201321": {
+        "id": 11201321,
+        "name": "320%护盾+光环",
+        "type": 6,
+        "params": [
+            1,
+            32000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 4000,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "Shields",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": [
+            7001
+        ]
+    },
+    "101010": {
+        "id": 101010,
+        "name": "10%生命上限",
+        "type": 1,
+        "params": [
+            1,
+            1000,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": -1,
+        "effTimes": -1,
+        "effInterval": -1,
+        "tag": "Hp",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "120010": {
+        "id": 120010,
+        "name": "10%受愈",
+        "type": 1,
+        "params": [
+            20,
+            1000,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": -1,
+        "effTimes": -1,
+        "effInterval": -1,
+        "tag": "treat",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "106010": {
+        "id": 106010,
+        "name": "10%防御",
+        "type": 1,
+        "params": [
+            6,
+            1000,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "def",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "106020": {
+        "id": 106020,
+        "name": "20%防御",
+        "type": 1,
+        "params": [
+            6,
+            2000,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "def",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "117005": {
+        "id": 117005,
+        "name": "5%减伤率",
+        "type": 1,
+        "params": [
+            17,
+            500,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmgR",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "117010": {
+        "id": 117010,
+        "name": "10%减伤率",
+        "type": 1,
+        "params": [
+            17,
+            1000,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmgR",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "7001": {
+        "id": 7001,
+        "name": "火焰护盾光环",
+        "type": 7,
+        "params": [
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "301200": {
+        "id": 301200,
+        "name": "回复200能量",
+        "type": 8,
+        "params": [
+            0,
+            200
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "301300": {
+        "id": 301300,
+        "name": "回复300能量",
+        "type": 8,
+        "params": [
+            0,
+            300
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "301400": {
+        "id": 301400,
+        "name": "回复400能量",
+        "type": 8,
+        "params": [
+            0,
+            400
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "301505": {
+        "id": 301505,
+        "name": "5s内10%减伤率",
+        "type": 1,
+        "params": [
+            17,
+            1000,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 5000,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmgR",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "301507": {
+        "id": 301507,
+        "name": "7s内10%减伤率",
+        "type": 1,
+        "params": [
+            17,
+            1000,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 7000,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "dmgR",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "301605": {
+        "id": 301605,
+        "name": "5s内造成10%伤害提升",
+        "type": 1,
+        "params": [
+            21,
+            1000,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 5000,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "301607": {
+        "id": 301607,
+        "name": "7s内造成10%伤害提升1",
+        "type": 0,
+        "params": [
+            21,
+            1000,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 7000,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "301750": {
+        "id": 301750,
+        "name": "回能增加50%",
+        "type": 1,
+        "params": [
+            10,
+            5000,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": -1,
+        "effTimes": -1,
+        "effInterval": -1,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "301751": {
+        "id": 301751,
+        "name": "回能增加100%",
+        "type": 1,
+        "params": [
+            10,
+            10000,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": -1,
+        "effTimes": -1,
+        "effInterval": -1,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "801000": {
+        "id": 801000,
+        "name": "回复1000能量",
+        "type": 8,
+        "params": [
+            0,
+            1000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "505": {
+        "id": 505,
+        "name": "击退0.5米",
+        "type": 5,
+        "params": [
+            0,
+            100
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 500,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "301811": {
+        "id": 301811,
+        "name": "持续伤害攻击力*20%",
+        "type": 7,
+        "params": [
+            2
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": -1,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "301930": {
+        "id": 301930,
+        "name": "恢复自己生命上限的30",
+        "type": 3,
+        "params": [
+            3,
+            3000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "301931": {
+        "id": 301931,
+        "name": "恢复且友军治疗效果提高",
+        "type": 1,
+        "params": [
+            20,
+            3000,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 0,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": [
+            301930
+        ]
+    },
+    "301932": {
+        "id": 301932,
+        "name": "魅惑(禁止施法)",
+        "type": 4,
+        "params": [
+            4
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 6000,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": [
+            301933,
+            301934
+        ]
+    },
+    "301933": {
+        "id": 301933,
+        "name": "魅惑(魅惑状态)",
+        "type": 4,
+        "params": [
+            64
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 6000,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "301934": {
+        "id": 301934,
+        "name": "伤害提升",
+        "type": 1,
+        "params": [
+            21,
+            1000,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 6000,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "301935": {
+        "id": 301935,
+        "name": "魅惑(魅惑状态 可释放技能)",
+        "type": 4,
+        "params": [
+            128
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 6000,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": [
+            301933,
+            301934
+        ]
+    },
+    "302001": {
+        "id": 302001,
+        "name": "治疗效果提升15%",
+        "type": 1,
+        "params": [
+            19,
+            1500,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": -1,
+        "effTimes": -1,
+        "effInterval": -1,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "302002": {
+        "id": 302002,
+        "name": "治疗效果提升20%",
+        "type": 1,
+        "params": [
+            19,
+            2000,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": -1,
+        "effTimes": -1,
+        "effInterval": -1,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "302003": {
+        "id": 302003,
+        "name": "治疗效果提升30%",
+        "type": 1,
+        "params": [
+            19,
+            3000,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": -1,
+        "effTimes": -1,
+        "effInterval": -1,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "302004": {
+        "id": 302004,
+        "name": "5s内恢复血量最低的",
+        "type": 3,
+        "params": [
+            3,
+            600,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 5000,
+        "effTimes": 5,
+        "effInterval": 1000,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": [
+            302005
+        ]
+    },
+    "302005": {
+        "id": 302005,
+        "name": "5s内恢复能量",
+        "type": 8,
+        "params": [
+            0,
+            30
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 5000,
+        "effTimes": 5,
+        "effInterval": 1000,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "303002": {
+        "id": 303002,
+        "name": "提升25%攻击力",
+        "type": 1,
+        "params": [
+            5,
+            2500,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 5000,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "303004": {
+        "id": 303004,
+        "name": "旋风斩",
+        "type": 7,
+        "params": [
+            2
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 5000,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "303005": {
+        "id": 303005,
+        "name": "旋风斩(无法释放技能)",
+        "type": 4,
+        "params": [
+            6
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 5000,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "303006": {
+        "id": 303006,
+        "name": "嗜血",
+        "type": 1,
+        "params": [
+            18,
+            10,
+            0
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": -1,
+        "effTimes": -1,
+        "effInterval": -1,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "303007": {
+        "id": 303007,
+        "name": "无敌",
+        "type": 0,
+        "params": [],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 4000,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "dmg",
+        "subBuff": []
+    },
+    "304001": {
+        "id": 304001,
+        "name": "减伤10%",
+        "type": 1,
+        "params": [
+            17,
+            1000,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 5000,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "304002": {
+        "id": 304002,
+        "name": "防御30%",
+        "type": 1,
+        "params": [
+            6,
+            3000,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 5000,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": [
+            304001
+        ]
+    },
+    "304003": {
+        "id": 304003,
+        "name": "生命值增加20%",
+        "type": 1,
+        "params": [
+            1,
+            2000,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": -1,
+        "effTimes": -1,
+        "effInterval": -1,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "304004": {
+        "id": 304004,
+        "name": "减伤率+5%",
+        "type": 1,
+        "params": [
+            17,
+            500,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": -1,
+        "effTimes": -1,
+        "effInterval": -1,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": [
+            304003
+        ]
+    },
+    "305001": {
+        "id": 305001,
+        "name": "持续伤害攻击力*100%",
+        "type": 7,
+        "params": [
+            3
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 3100,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "305002": {
+        "id": 305002,
+        "name": "持续伤害攻击力*120%",
+        "type": 7,
+        "params": [
+            4
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 3100,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "305003": {
+        "id": 305003,
+        "name": "攻速提升20%",
+        "type": 1,
+        "params": [
+            8,
+            2000,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": -1,
+        "effTimes": -1,
+        "effInterval": -1,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "305004": {
+        "id": 305004,
+        "name": "攻速提升35%",
+        "type": 1,
+        "params": [
+            8,
+            3500,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": -1,
+        "effTimes": -1,
+        "effInterval": -1,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "305005": {
+        "id": 305005,
+        "name": "持续10s增加10%防御",
+        "type": 1,
+        "params": [
+            6,
+            1000,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 10000,
+        "effTimes": 1,
+        "effInterval": 0,
+        "tag": "def",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "305006": {
+        "id": 305006,
+        "name": "防御提升10%",
+        "type": 1,
+        "params": [
+            6,
+            1000,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": -1,
+        "effTimes": -1,
+        "effInterval": -1,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "305007": {
+        "id": 305007,
+        "name": "防御提升20%",
+        "type": 1,
+        "params": [
+            6,
+            2000,
+            1
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": -1,
+        "effTimes": -1,
+        "effInterval": -1,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "305008": {
+        "id": 305008,
+        "name": "每8s恢复自身8%生命值",
+        "type": 3,
+        "params": [
+            3,
+            3000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 90000,
+        "effTimes": 999,
+        "effInterval": 8000,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    },
+    "305009": {
+        "id": 305009,
+        "name": "每8s恢复自身16%生命值",
+        "type": 3,
+        "params": [
+            3,
+            16000
+        ],
+        "isOuterVal": false,
+        "layer": 1,
+        "duration": 90000,
+        "effTimes": 999,
+        "effInterval": 8000,
+        "tag": "",
+        "serieTag": "",
+        "priority": 0,
+        "mutexTag": "",
+        "immuneTag": "",
+        "subBuff": []
+    }
+}

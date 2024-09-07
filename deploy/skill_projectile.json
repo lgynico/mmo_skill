@@ -1,0 +1,155 @@
+{
+    "1": {
+        "id": 1,
+        "name": "远程子弹",
+        "shape": [
+            1,
+            10
+        ],
+        "speed": 5.0,
+        "time": 10000,
+        "targetType": 1,
+        "effDeco1": "",
+        "effect1": 2025,
+        "effDeco2": "",
+        "effect2": 0,
+        "effDeco3": "",
+        "effect3": 0
+    },
+    "11201211": {
+        "id": 11201211,
+        "name": "烟云火花",
+        "shape": [
+            1,
+            10
+        ],
+        "speed": 5.0,
+        "time": 10000,
+        "targetType": 1,
+        "effDeco1": "",
+        "effect1": 2100,
+        "effDeco2": "",
+        "effect2": 0,
+        "effDeco3": "",
+        "effect3": 0
+    },
+    "11201212": {
+        "id": 11201212,
+        "name": "烟云火花",
+        "shape": [
+            1,
+            10
+        ],
+        "speed": 5.0,
+        "time": 10000,
+        "targetType": 1,
+        "effDeco1": "",
+        "effect1": 2110,
+        "effDeco2": "",
+        "effect2": 0,
+        "effDeco3": "",
+        "effect3": 0
+    },
+    "11201213": {
+        "id": 11201213,
+        "name": "烟云火花",
+        "shape": [
+            1,
+            10
+        ],
+        "speed": 5.0,
+        "time": 10000,
+        "targetType": 1,
+        "effDeco1": "",
+        "effect1": 2130,
+        "effDeco2": "",
+        "effect2": 0,
+        "effDeco3": "",
+        "effect3": 0
+    },
+    "11201214": {
+        "id": 11201214,
+        "name": "烟云火花",
+        "shape": [
+            1,
+            10
+        ],
+        "speed": 5.0,
+        "time": 10000,
+        "targetType": 1,
+        "effDeco1": "",
+        "effect1": 2150,
+        "effDeco2": "",
+        "effect2": 0,
+        "effDeco3": "",
+        "effect3": 0
+    },
+    "12101111": {
+        "id": 12101111,
+        "name": "山精",
+        "shape": [
+            1,
+            10
+        ],
+        "speed": 5.0,
+        "time": 10000,
+        "targetType": 1,
+        "effDeco1": "",
+        "effect1": 2250,
+        "effDeco2": "",
+        "effect2": 0,
+        "effDeco3": "",
+        "effect3": 0
+    },
+    "12102111": {
+        "id": 12102111,
+        "name": "山精",
+        "shape": [
+            1,
+            10
+        ],
+        "speed": 5.0,
+        "time": 10000,
+        "targetType": 1,
+        "effDeco1": "",
+        "effect1": 2250,
+        "effDeco2": "",
+        "effect2": 0,
+        "effDeco3": "",
+        "effect3": 0
+    },
+    "13205211": {
+        "id": 13205211,
+        "name": "蓄力箭击",
+        "shape": [
+            1,
+            10
+        ],
+        "speed": 5.0,
+        "time": 10000,
+        "targetType": 1,
+        "effDeco1": "",
+        "effect1": 2150,
+        "effDeco2": "",
+        "effect2": 0,
+        "effDeco3": "",
+        "effect3": 0
+    },
+    "13205212": {
+        "id": 13205212,
+        "name": "蓄力箭击Lv2",
+        "shape": [
+            1,
+            10
+        ],
+        "speed": 5.0,
+        "time": 10000,
+        "targetType": 1,
+        "effDeco1": "",
+        "effect1": 2200,
+        "effDeco2": "",
+        "effect2": 0,
+        "effDeco3": "",
+        "effect3": 0
+    }
+}

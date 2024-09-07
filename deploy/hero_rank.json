@@ -1,0 +1,567 @@
+{
+    "1": {
+        "id": 1,
+        "next": 0,
+        "rankupCond": [],
+        "rankupCondSp": [],
+        "rollbackSelf": 0,
+        "rollbackSelfSp": 0,
+        "rollbackFodder": 0,
+        "maxLvl": 60,
+        "TeamLvl": 20,
+        "attrCeo": 10000,
+        "score": 5
+    },
+    "10": {
+        "id": 10,
+        "next": 11,
+        "rankupCond": [],
+        "rankupCondSp": [],
+        "rollbackSelf": 0,
+        "rollbackSelfSp": 0,
+        "rollbackFodder": 0,
+        "maxLvl": 80,
+        "TeamLvl": 40,
+        "attrCeo": 12000,
+        "score": 10
+    },
+    "11": {
+        "id": 11,
+        "next": 20,
+        "rankupCond": [
+            [
+                10,
+                1
+            ],
+            [
+                10,
+                1
+            ]
+        ],
+        "rankupCondSp": [],
+        "rollbackSelf": 0,
+        "rollbackSelfSp": 0,
+        "rollbackFodder": 0,
+        "maxLvl": 100,
+        "TeamLvl": 60,
+        "attrCeo": 15000,
+        "score": 30
+    },
+    "20": {
+        "id": 20,
+        "next": 21,
+        "rankupCond": [
+            [
+                11,
+                2
+            ],
+            [
+                11,
+                2
+            ]
+        ],
+        "rankupCondSp": [],
+        "rollbackSelf": 0,
+        "rollbackSelfSp": 0,
+        "rollbackFodder": 0,
+        "maxLvl": 120,
+        "TeamLvl": 80,
+        "attrCeo": 20000,
+        "score": 90
+    },
+    "21": {
+        "id": 21,
+        "next": 30,
+        "rankupCond": [
+            [
+                20,
+                1
+            ]
+        ],
+        "rankupCondSp": [
+            [
+                20,
+                1
+            ]
+        ],
+        "rollbackSelf": 0,
+        "rollbackSelfSp": 0,
+        "rollbackFodder": 0,
+        "maxLvl": 140,
+        "TeamLvl": 100,
+        "attrCeo": 22500,
+        "score": 180
+    },
+    "30": {
+        "id": 30,
+        "next": 31,
+        "rankupCond": [
+            [
+                21,
+                2
+            ],
+            [
+                21,
+                2
+            ]
+        ],
+        "rankupCondSp": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rollbackSelf": 1,
+        "rollbackSelfSp": 4,
+        "rollbackFodder": 36,
+        "maxLvl": 160,
+        "TeamLvl": 120,
+        "attrCeo": 25000,
+        "score": 540
+    },
+    "31": {
+        "id": 31,
+        "next": 40,
+        "rankupCond": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rankupCondSp": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rollbackSelf": 2,
+        "rollbackSelfSp": 6,
+        "rollbackFodder": 36,
+        "maxLvl": 180,
+        "TeamLvl": 140,
+        "attrCeo": 27500,
+        "score": 720
+    },
+    "40": {
+        "id": 40,
+        "next": 41,
+        "rankupCond": [
+            [
+                31,
+                2
+            ]
+        ],
+        "rankupCondSp": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rollbackSelf": 2,
+        "rollbackSelfSp": 8,
+        "rollbackFodder": 108,
+        "maxLvl": 200,
+        "TeamLvl": 160,
+        "attrCeo": 30000,
+        "score": 1440
+    },
+    "41": {
+        "id": 41,
+        "next": 50,
+        "rankupCond": [
+            [
+                31,
+                2
+            ]
+        ],
+        "rankupCondSp": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rollbackSelf": 2,
+        "rollbackSelfSp": 10,
+        "rollbackFodder": 180,
+        "maxLvl": 220,
+        "TeamLvl": 180,
+        "attrCeo": 32500,
+        "score": 2160
+    },
+    "50": {
+        "id": 50,
+        "next": 51,
+        "rankupCond": [
+            [
+                21,
+                1
+            ],
+            [
+                21,
+                1
+            ]
+        ],
+        "rankupCondSp": [
+            [
+                21,
+                1
+            ],
+            [
+                21,
+                1
+            ]
+        ],
+        "rollbackSelf": 4,
+        "rollbackSelfSp": 14,
+        "rollbackFodder": 180,
+        "maxLvl": 240,
+        "TeamLvl": 200,
+        "attrCeo": 35000,
+        "score": 2520
+    },
+    "51": {
+        "id": 51,
+        "next": 52,
+        "rankupCond": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rankupCondSp": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rollbackSelf": 5,
+        "rollbackSelfSp": 16,
+        "rollbackFodder": 180,
+        "maxLvl": 240,
+        "TeamLvl": 220,
+        "attrCeo": 37500,
+        "score": 2700
+    },
+    "52": {
+        "id": 52,
+        "next": 53,
+        "rankupCond": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rankupCondSp": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rollbackSelf": 6,
+        "rollbackSelfSp": 18,
+        "rollbackFodder": 180,
+        "maxLvl": 240,
+        "TeamLvl": 240,
+        "attrCeo": 40000,
+        "score": 2880
+    },
+    "53": {
+        "id": 53,
+        "next": 54,
+        "rankupCond": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rankupCondSp": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rollbackSelf": 7,
+        "rollbackSelfSp": 20,
+        "rollbackFodder": 180,
+        "maxLvl": 240,
+        "TeamLvl": 240,
+        "attrCeo": 42500,
+        "score": 3060
+    },
+    "54": {
+        "id": 54,
+        "next": 55,
+        "rankupCond": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rankupCondSp": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rollbackSelf": 8,
+        "rollbackSelfSp": 22,
+        "rollbackFodder": 180,
+        "maxLvl": 240,
+        "TeamLvl": 240,
+        "attrCeo": 45000,
+        "score": 3240
+    },
+    "55": {
+        "id": 55,
+        "next": 56,
+        "rankupCond": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rankupCondSp": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rollbackSelf": 9,
+        "rollbackSelfSp": 24,
+        "rollbackFodder": 180,
+        "maxLvl": 240,
+        "TeamLvl": 240,
+        "attrCeo": 47500,
+        "score": 3420
+    },
+    "56": {
+        "id": 56,
+        "next": 57,
+        "rankupCond": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rankupCondSp": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rollbackSelf": 10,
+        "rollbackSelfSp": 26,
+        "rollbackFodder": 180,
+        "maxLvl": 240,
+        "TeamLvl": 240,
+        "attrCeo": 50000,
+        "score": 3600
+    },
+    "57": {
+        "id": 57,
+        "next": 58,
+        "rankupCond": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rankupCondSp": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rollbackSelf": 11,
+        "rollbackSelfSp": 28,
+        "rollbackFodder": 180,
+        "maxLvl": 240,
+        "TeamLvl": 240,
+        "attrCeo": 52500,
+        "score": 3780
+    },
+    "58": {
+        "id": 58,
+        "next": 59,
+        "rankupCond": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rankupCondSp": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rollbackSelf": 12,
+        "rollbackSelfSp": 30,
+        "rollbackFodder": 180,
+        "maxLvl": 240,
+        "TeamLvl": 240,
+        "attrCeo": 55000,
+        "score": 3960
+    },
+    "59": {
+        "id": 59,
+        "next": 60,
+        "rankupCond": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rankupCondSp": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rollbackSelf": 13,
+        "rollbackSelfSp": 32,
+        "rollbackFodder": 180,
+        "maxLvl": 240,
+        "TeamLvl": 240,
+        "attrCeo": 57500,
+        "score": 4140
+    },
+    "60": {
+        "id": 60,
+        "next": 61,
+        "rankupCond": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rankupCondSp": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rollbackSelf": 14,
+        "rollbackSelfSp": 34,
+        "rollbackFodder": 180,
+        "maxLvl": 240,
+        "TeamLvl": 240,
+        "attrCeo": 60000,
+        "score": 4320
+    },
+    "61": {
+        "id": 61,
+        "next": 62,
+        "rankupCond": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rankupCondSp": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rollbackSelf": 15,
+        "rollbackSelfSp": 36,
+        "rollbackFodder": 180,
+        "maxLvl": 240,
+        "TeamLvl": 240,
+        "attrCeo": 62500,
+        "score": 4500
+    },
+    "62": {
+        "id": 62,
+        "next": 63,
+        "rankupCond": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rankupCondSp": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rollbackSelf": 16,
+        "rollbackSelfSp": 38,
+        "rollbackFodder": 180,
+        "maxLvl": 240,
+        "TeamLvl": 240,
+        "attrCeo": 65000,
+        "score": 4680
+    },
+    "63": {
+        "id": 63,
+        "next": 64,
+        "rankupCond": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rankupCondSp": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rollbackSelf": 17,
+        "rollbackSelfSp": 40,
+        "rollbackFodder": 180,
+        "maxLvl": 240,
+        "TeamLvl": 240,
+        "attrCeo": 67500,
+        "score": 4860
+    },
+    "64": {
+        "id": 64,
+        "next": 65,
+        "rankupCond": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rankupCondSp": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rollbackSelf": 18,
+        "rollbackSelfSp": 42,
+        "rollbackFodder": 180,
+        "maxLvl": 240,
+        "TeamLvl": 240,
+        "attrCeo": 70000,
+        "score": 5040
+    },
+    "65": {
+        "id": 65,
+        "next": 0,
+        "rankupCond": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rankupCondSp": [
+            [
+                21,
+                1
+            ]
+        ],
+        "rollbackSelf": 19,
+        "rollbackSelfSp": 44,
+        "rollbackFodder": 180,
+        "maxLvl": 240,
+        "TeamLvl": 240,
+        "attrCeo": 72500,
+        "score": 5220
+    }
+}
