@@ -2,10 +2,8 @@ package conf
 
 import (
 	"fmt"
-	"math"
 
 	"github.com/emirpasic/gods/maps/treemap"
-	"github.com/lgynico/mmo_skill/utils"
 )
 
 func init() {
@@ -32,8 +30,6 @@ type SkillConfigs struct {
 
 type HeroEntryRowEx struct {
 	*HeroEntryRow
-	RankRow         *HeroRankRow
-	CampRow         *HeroCampRow
 	AttackSkillCfg  *SkillConfig
 	NormalSkillCfgs []*treemap.Map
 }
@@ -57,40 +53,9 @@ func (cfg *HeroEntryRowEx) GetSkillCfgs(lv int) *SkillConfigs {
 	}
 }
 
-type HeroRankRowEx struct {
-	*HeroRankRow
-	PrevRow, NextRow *HeroRankRowEx
-}
-
-type HeroGrowConfig struct {
-	holder *treemap.Map
-	Type   int
-}
-
-func (c *HeroGrowConfig) GetTotalGrow(lvl int) float64 {
-	grow := float64(1)
-	for {
-		key, val := c.holder.Floor(lvl)
-		if val == nil {
-			break
-		}
-
-		floorLv := key.(int)
-		cfg := val.(*HeroGrowRow)
-
-		grow *= math.Pow(float64(cfg.LvlGrow)/10000, float64(lvl-floorLv+1))
-		lvl = floorLv - 1
-
-	}
-
-	return grow
-}
-
 type HeroConfAdapter struct {
 	*BaseConfAdapter
 	HeroRows map[int]*HeroEntryRowEx
-	RankRows map[int]*HeroRankRowEx
-	GrowRows map[int]*HeroGrowConfig
 }
 
 // var HeroConfAdapter = &HeroConfAdapter{
@@ -99,63 +64,17 @@ type HeroConfAdapter struct {
 // 	GrowRows: make(map[int]*HeroGrowConfig),
 // }
 
-func (a *HeroConfAdapter) RandHeroEntry(camp, rank int) (*HeroEntryRow, bool) {
-	heroCfgs := make([]*HeroEntryRow, 0, len(ConfMgr.HeroEntry.Rows))
-	for _, heroCfg := range ConfMgr.HeroEntry.Rows {
-		if (camp == 0 || camp == heroCfg.Camp) && heroCfg.Rank == rank {
-			heroCfgs = append(heroCfgs, heroCfg)
-		}
-	}
-
-	if len(heroCfgs) == 0 {
-		return nil, false
-	}
-
-	idx := utils.RandIntByCrypto(0, len(heroCfgs))
-	return heroCfgs[idx], true
-}
-
 func (a *HeroConfAdapter) onLoadComplete() {
 	a.adaptEntry()
-	a.adaptRank()
-	a.adaptGrow()
-}
-
-func (a *HeroConfAdapter) adaptGrow() {
-	a.GrowRows = make(map[int]*HeroGrowConfig, len(ConfMgr.HeroGrow.Rows))
-
-	for _, growCfg := range ConfMgr.HeroGrow.Rows {
-		cfg, ok := a.GrowRows[growCfg.Type]
-		if !ok {
-			cfg = &HeroGrowConfig{
-				holder: treemap.NewWithIntComparator(),
-				Type:   growCfg.Type,
-			}
-			a.GrowRows[cfg.Type] = cfg
-		}
-
-		cfg.holder.Put(growCfg.LvlSection, growCfg)
-	}
 }
 
 func (a *HeroConfAdapter) adaptEntry() {
 	a.HeroRows = make(map[int]*HeroEntryRowEx, len(ConfMgr.HeroEntry.Rows))
 
 	for _, row := range ConfMgr.HeroEntry.Rows {
-		rankRow, ok := ConfMgr.HeroRank.GetRowByInt(row.Rank)
-		if !ok {
-			panic(fmt.Errorf("config not exists: name = %s, row = %d", CONF_HERO_RANK, row.Rank))
-		}
-
-		campRow, ok := ConfMgr.HeroCamp.GetRowByInt(row.Camp)
-		if !ok {
-			panic(fmt.Errorf("config not exists: name = %s, row = %d", CONF_HERO_CAMP, row.Camp))
-		}
 
 		rowEx := &HeroEntryRowEx{
 			HeroEntryRow: row,
-			RankRow:      rankRow,
-			CampRow:      campRow,
 		}
 
 		a.adaptSkills(rowEx)
@@ -225,27 +144,4 @@ func (a *HeroConfAdapter) newSkillMap(skill []int) *treemap.Map {
 	}
 
 	return m
-}
-
-func (a *HeroConfAdapter) adaptRank() {
-	a.RankRows = make(map[int]*HeroRankRowEx, len(ConfMgr.HeroRank.Rows))
-
-	for _, rankRow := range ConfMgr.HeroRank.Rows {
-		rowEx := &HeroRankRowEx{
-			HeroRankRow: rankRow,
-		}
-
-		a.RankRows[rankRow.Id] = rowEx
-	}
-
-	for _, rowEx := range a.RankRows {
-		if rowEx.Next != 0 {
-			nextRow, ok := a.RankRows[rowEx.Next]
-			if !ok {
-				panic(fmt.Errorf("config not exists: name=%s, row=%d", CONF_HERO_RANK, rowEx.Next))
-			}
-			rowEx.NextRow = nextRow
-			nextRow.PrevRow = rowEx
-		}
-	}
 }

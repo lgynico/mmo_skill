@@ -20,7 +20,7 @@ func loadConfigs() {
 func Test_Battle(t *testing.T) {
 	teamRed := [5]facade.BattleUnit{}
 	teamRed[0] = unitFromMonster(112021240, 1)
-	// teamRed[1] = unitFromMonster(112021240, 2)
+	teamRed[1] = unitFromMonster(112021240, 2)
 	teamRed[2] = unitFromMonster(112011240, 3)
 	// teamRed[3] = unitFromMonster(1, 4)
 	// teamRed[4] = unitFromMonster(112011240, 5)
